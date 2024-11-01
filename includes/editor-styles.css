@@ -1,0 +1,10 @@
+body#tinymce.wp-editor { 
+margin: 10px;
+font-family: Verdana;
+color: #4d5a5e;
+font-size: 12px;
+}
+body#tinymce.wp-editor h1 { 
+    font-size:24px; 
+}
+.wp-editor-container{border: 1px solid #cfdfe3;}
